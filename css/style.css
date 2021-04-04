@@ -1,0 +1,23 @@
+header h1 {
+    background-color:rgb(126, 72, 103);
+    text-align: center;
+}
+nav ul li a{
+background-color: rgb(221, 211, 211);
+display: inline;
+}
+#one{
+    background-color: gray;
+}
+#two{
+    background-color: gray;
+}
+#three{
+    background-color: gray;
+}
+#four{
+    background-color: gray;
+}
+footer h2 {
+    text-align: center;
+}
